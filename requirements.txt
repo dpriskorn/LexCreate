@@ -1,5 +1,4 @@
 rich
 git+git://github.com/LeMyst/WikibaseIntegrator@0.12.0.dev0#egg=wikibaseintegrator
 # wikibaseintegrator==0.11.0
-#simple_term_menu
 console-menu
