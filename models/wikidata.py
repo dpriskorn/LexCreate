@@ -11,7 +11,7 @@ from wikibaseintegrator.wbi_helpers import execute_sparql_query
 # We get the URL for the Wikibase from here
 import config
 
-wbi_config['USER_AGENT'] = f"LexCreate (url)"
+wbi_config.config['USER_AGENT'] = f"LexCreate (url)"
 
 class WikidataGrammaticalFeature(Enum):
     # Swedish
